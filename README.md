@@ -2,7 +2,10 @@
 
 You can clone the InfluxDB repository from GitHub using a SSH connection:
 
+```shell
 git clone git@github.com:noorall/influxdb.git
+```
+
 or via HTTPS:
 ```shell
 git clone https://github.com/noorall/influxdb.git
